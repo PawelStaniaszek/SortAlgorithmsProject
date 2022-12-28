@@ -1,4 +1,4 @@
-﻿using Array = SortAlgorithmsProject.Array;
+﻿using Array = GUI.Algorithms.Array;
 
 namespace GUI
 {

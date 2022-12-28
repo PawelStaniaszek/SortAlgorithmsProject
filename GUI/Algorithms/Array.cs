@@ -1,4 +1,4 @@
-﻿namespace SortAlgorithmsProject
+﻿namespace GUI.Algorithms
 {
     public class Array
     {

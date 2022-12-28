@@ -1,4 +1,4 @@
-﻿using SortAlgorithmsProject;
+﻿using GUI.Algorithms;
 using System.Text;
 
 namespace GUI
